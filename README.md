@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Drizzle Ahuja</h1>
-<h3 align="center">A passionate Full Stack Developer from India.</h3>
+<h3 align="center">A passionate Full Stack Developer from India, dedicated to mastering the craft.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drizzleahuja&label=Profile%20views&color=0e75b6&style=flat" alt="drizzleahuja" /> </p>
 
+- 🔭 I’m currently working on [Airbnb Website Clone](https://github.com/DrizzleAhuja/Airbnb-Website)
+
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **MERN Stack along with any associated frameworks and technologies.**
+- 👨‍💻 All of my projects are available at [https://github.com/DrizzleAhuja?tab=repositories](https://github.com/DrizzleAhuja?tab=repositories)
 
 - 📫 How to reach me **study.drizzle@gmail.com**
 
