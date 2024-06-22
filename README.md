@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Drizzle Ahuja</h1>
-<h3 align="center">A passionate Full Stack Developer from India.</h3>
+<h2 align="center">A passionate Full Stack Developer from India.</h2>
 
-- 🔭 I’m currently working on [EduMagine: MERN Stack Learning Hub]
+- 🔭 I’m currently working on EduMagine: MERN Stack Learning Hub
 
 - 🌱 I’m currently learning **MERN Stack**
 
