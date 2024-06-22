@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Drizzle Ahuja</h1>
 <h3 align="center">A passionate Full Stack Developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drizzleahuja&label=Profile%20views&color=0e75b6&style=flat" alt="drizzleahuja" /> </p>
-
-- 🔭 I’m currently working on [Airbnb Website Clone](https://github.com/DrizzleAhuja/Airbnb-Website)
+- 🔭 I’m currently working on [EduMagine: MERN Stack Learning Hub]
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DrizzleAhuja?tab=repositories](https://github.com/DrizzleAhuja?tab=repositories)
 
-- 📫 How to reach me **drizzle003.ace@gmail.com**
+- 📫 How to reach me **study.drizzle@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drizzleahuja&show_icons=true&locale=en" alt="drizzleahuja" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drizzleahuja&" alt="drizzleahuja" /></p>
